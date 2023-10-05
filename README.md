@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Corn23113
+- 👀 I’m interested in coding and sports
+- 🌱 I’m currently learning python and lua
+- 📫 How to reach me discord = d0xbattle
